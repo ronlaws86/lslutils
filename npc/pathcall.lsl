@@ -142,7 +142,7 @@ pathNavigateTo(vector regioncorner, vector endpos, float stopshort, float speed)
 //  The retry heads for the new target position.
 //
 pathPursue(key target, float stopshort, float speed)
-{   pathBegin(target, ZERO_VECTOR, ZERO_VECOTR, stopshort, speed);          // start pursuit.
+{   pathBegin(target, ZERO_VECTOR, ZERO_VECTOR, stopshort, speed);          // start pursuit.
 }
 
 //
